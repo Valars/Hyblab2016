@@ -1,16 +1,9 @@
-# Anther web template
+# Anther web template in HTML2
 
-Média : Ouest France
+Generally, this template is similar to the original one, but it can do a better job to slide the webpages.
+It has a buttom menu to control the navigation of our site. 
 
-Sujet : Les français et la voiture
+You can see a [demo] (http://www.htmleaf.com/Demo/201503021447.html) from this link
 
-Equipe : K2000
-
-Participants :
-- AGR : Hatt Gaël, Luna Florent
-- Polytech : Brisseau Aurélien, Lin Shen, Garnier Romain
-- SciencesCom : Rousseau Charlène, Musset Baptiste, Puyhardy Cécile
-
-# Installation
 
 # Informations complémentaires
