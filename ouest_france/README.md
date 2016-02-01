@@ -1,4 +1,4 @@
-# Descriptif du projet
+# Anther web template
 
 Média : Ouest France
 
